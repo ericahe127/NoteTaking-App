@@ -2,7 +2,7 @@ import ReactDom from "react-dom";
 
 function Header(){
     return <header>
-        <h1>Keeper</h1>
+        <h1>Note</h1>
     </header>
 }
 
